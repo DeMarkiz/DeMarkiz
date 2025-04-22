@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Привет! Я Марк 👋</h1>
+<h3 align="center">Python/Django разработчик</h3>
 
-<!--
-**DeMarkiz/DeMarkiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🙋‍♂️ Немного обо мне:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Работаю в сфере разработки web-приложений
+- 🛠️ Использую Python, Django, DRF, PostgreSQL
+- 🔍 Интересуюсь OCR, анализом данных и автоматизацией
+- 📫 Связь: [markberezhnoy27@gmail.com](mailto:markberezhnoy27@gmail.com)
+
+---
+
+### 🛠️ Технологии и инструменты:
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub статистика:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeMarkiz&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeMarkiz&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🏆 GitHub трофеи:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DeMarkiz&theme=onedark" />
+</p>
+
+---
+
+### 📈 Активность:
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DeMarkiz&theme=dracula" />
+</p>
+
+---
+
+### 🔗 Соцсети:
+ 
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markberezhnoy27@gmail.com)
+
+---
+
+![Просмотры профиля](https://komarev.com/ghpvc/?username=DeMarkiz)
