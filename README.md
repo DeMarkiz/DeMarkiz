@@ -1,5 +1,5 @@
 <h1 align="center">Привет! Я Марк 👋</h1>
-<h3 align="center">Python/Django разработчик</h3>
+<h3 align="center">Python разработчик</h3>
 
 ---
 
@@ -50,10 +50,9 @@
 ---
 
 ### 📈 Активность:
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=DeMarkiz&theme=dracula" />
-</p>
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShizoFRenlK&theme=tokyo-night" alt=""/>
+</div>
 
 ---
 
